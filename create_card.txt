@@ -1,0 +1,1 @@
+CREATE TABLE card(id INT, pack_id INT, type_id INT, sphere_id INT, position INT, code TEXT, name TEXT, traits TEXT, text TEXT, flavor TEXT, is_unique INT, cost INT, threat INT, willpower INT, attack INT, defense INT, health INT, victory INT, quest INT, quantity INT, deck_limit INT, illustrator TEXT, octgnid TEXT, date_creation TEXT, date_update TEXT, has_errata INT);
